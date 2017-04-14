@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing
+title: Testing Jekyll
 ---
 
 Hello. This is me exploring Jekyll as a blog platform.
