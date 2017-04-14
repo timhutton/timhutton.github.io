@@ -2,10 +2,22 @@
 layout: post
 title: Testing
 ---
-<i>hello</i>
 
-hi
+<p>
+Hello. This is me exploring Jekyll as a blog platform.
+</p>
 
+<p>I like that everything is a text file.</p>
+
+<p>I like that it picks up files in the <tt>_posts</tt> folder automatically.</p>
+
+<p>I like that when hosting on Github there is nothing to run - it just all works magically.</p>
+
+<p>I like that you can write posts as either .md files or .html.</p>
+
+<p>I like that you can include javascript canvas elements:</p>
+
+<p>
 <canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
 Your browser does not support the HTML5 canvas tag.</canvas>
 
@@ -15,4 +27,13 @@ var ctx = c.getContext("2d");
 ctx.beginPath();
 ctx.arc(95,50,40,0,2*Math.PI);
 ctx.stroke();
-</script> 
+</script>
+  
+<p>I like that it knows about code syntax highlighting:</p>
+
+{% highlight c++ %}
+int main()
+{
+    return 1;
+}
+{% endhighlight %}
