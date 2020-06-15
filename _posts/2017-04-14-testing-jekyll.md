@@ -37,4 +37,4 @@ int main()
 }
 {% endhighlight %}
 
-See the [source for this post here](https://raw.githubusercontent.com/timhutton/timhutton.github.io/master/_posts/2017-04-14-testing-jekyll.md)
+See the [source for this post here](https://raw.githubusercontent.com/timhutton/timhutton.github.io/main/_posts/2017-04-14-testing-jekyll.md)
