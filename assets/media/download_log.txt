@@ -1,0 +1,469 @@
+  1/420 media/506392677831962624-BwTOwZJIQAA5Bco.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  2/420 media/506389310539837440-BwcOZIXCQAEoENx.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  3/420 media/426667631307812865-BevT8zmCcAAkHRe.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  4/420 media/418368379050008576-Bc5X0uIIcAAM5yc.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  5/420 media/418358719643406336-Bc5PCeWIAAAx1PR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  6/420 media/416684179276181505-BchcDZkIEAAHTcp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  7/420 media/893428652834213888-DGXIGHGUMAAY2cP.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  8/420 media/880924990878691328-DDmsbCvXkAAXPEt.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  9/420 media/877992698908598273-DC9Bbr9XUAEA9N4.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 10/420 media/877922722038267904-DC8B_geXsAAU_FY.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 11/420 media/875653528265424897-DCbyN9LUMAEablR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 12/420 media/906309957733289986-DJPcF7gW4AAQ6ys.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 13/420 media/905905988791930884-DJJsoMSW0AADIdu.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 14/420 media/903195483778273280-DIjLEndWAAAyXMl.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 15/420 media/898110290335870976-ekQCXj12h_-iEdAH.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 16/420 media/897199098528501760-rxDng-SWUJSEJ5Xv.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 17/420 media/918825353812078592-DMBSYGYVAAAtAzn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 18/420 media/915112186397315072-DLMhq-gWAAUJyAt.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 19/420 media/913824954851917824-DK6OCPEXkAAWhCJ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 20/420 media/941266864918925312-DQ_59-oX4AACzhk.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 21/420 media/941266864918925312-DQ_59_GWkAAbpLG.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 22/420 media/941266864918925312-DQ_59-tX4AAK-JZ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 23/420 media/935612863380680704-DPv0_s2X4AAmJ2e.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 24/420 media/935612863380680704-DPv2JWAW0AAKW1G.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 25/420 media/956130414044831744-DUQvhfAW0AAhE9e.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 26/420 media/955808418442379264-DUO2A0_X0AU_Js_.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 27/420 media/950419833102962688-DTCRxdfWkAUsvwf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 28/420 media/947617479450382336-DSacCaxX4AA9MLH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 29/420 media/946671805535805440-DSNA77zWkAAZzNJ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 30/420 media/965714939850776576-DWboXn9W0AAL52q.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 31/420 media/965585804302192642-DWZyIctXkAAqEDO.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 32/420 media/961278933600817152-DVcmD5WW4AAREFi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 33/420 media/961271588669837312-DVcfBrUWkAAriP9.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 34/420 media/960998682878455808-DVYnL5rW0AAnDw-.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 35/420 media/960965302547861505-DVYIg2gXcAU0KTQ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 36/420 media/960965302547861505-DVYIhmTW4AU0CDW.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 37/420 media/959419782515838976-DVCLIpKX4AEpqeV.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 38/420 media/973672374213251072-DYD2JzYU8AAAQTj.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 39/420 media/973585403679838208-DYLdl3iWAAANyxI.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 40/420 media/972110428519174144-M0XPz5t-GfYjW--P.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 41/420 media/972110412794785792-Jz48B42RWFaNE3Mq.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 42/420 media/971504708136382465-DXt46L9X0AE2puI.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 43/420 media/979472788615557120-DZfI8MeX0AEYmuP.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 44/420 media/978603550161989633-DZSwv-TWsAAcwPe.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 45/420 media/976145702958092288-DYv3GJsXcAAsbzG.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 46/420 media/975831768099147778-DYrZKf4X0AIj8qQ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 47/420 media/975138957523595267-DYhjNZ7WAAA3v9w.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 48/420 media/975136768004710400-DYhhYiQW0AAU1ot.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 49/420 media/973894378346475520-DYPseebX0AAoIlu.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 50/420 media/994144330846752769-Db9dqPuXUAEPaNQ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 51/420 media/990344350184943616-Db5oybkWkAIJt7c.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 52/420 media/988456740206374912-DbeyzQdWAAAlvnR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 53/420 media/988456740206374912-Dbey1gdW4AAvc3E.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 54/420 media/986738901472694277-DbGZPYLX4AEmGLa.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 55/420 media/986738901472694277-DbGZPYLW4AAA6-x.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 56/420 media/986738901472694277-DbGZRLWX4AA1LZW.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 57/420 media/981611082744778753-DZ9h880XkAAhzga.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 58/420 media/981531637413539840-DZ8Z0VLVAAExzfe.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 59/420 media/980104791329296385-DZoIG2jW4AA40cD.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 60/420 media/1011624514877362178-DgoDDz6WsAAUyFN.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 61/420 media/1010638114417766400-DgaB-pAW4AATrMb.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 62/420 media/1010638114417766400-DgaB-o7XUAAMT1B.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 63/420 media/1010638114417766400-DgaB-pCW4AsE2Fh.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 64/420 media/1008410063189565440-Df6XLPIXcAIOl6J.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 65/420 media/998290563861549057-Ddqj9bzUQAEuRu3.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 66/420 media/998218105020211200-Ddlao5BW0AUpR2Q.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 67/420 media/995672648830144512-DdFW_nuXkAI-4LK.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 68/420 media/563063161679785984-B9BKnTIIcAAGDbK.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 69/420 media/546197861072121856-B5QsHj9IMAA6Q_P.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 70/420 media/533235036813012992-B2ZucJSCcAAR1kR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 71/420 media/1015722956150984705-DhiSoEdX4AAWDqx.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 72/420 media/1015722956150984705-DhiSoEUW4AERDJH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 73/420 media/1015722956150984705-DhiSoEWWkAEy6hn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 74/420 media/1015722956150984705-DhiSoEUWAAIc6Qx.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 75/420 media/1015235087951163393-DhbS1g4XcAEolox.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 76/420 media/1014315991243853825-DhOR2h5X4AE1mSw.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 77/420 media/1013776049023397888-DhGh4GLUYAEtzUu.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 78/420 media/1012444373051691010-DgzrtfMW4Acwesx.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 79/420 media/1012444373051691010-DgzrtfgXcAE8QSR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 80/420 media/1012444373051691010-DgzrtfTWkAIneVH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 81/420 media/1012444373051691010-DgzsPWDXUAAVqGx.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 82/420 media/1012007116419293184-DgtfDU5WkAEI2aP.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 83/420 media/1029746018232029184-DkpkC5mX4AAiOoE.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 84/420 media/1029360424045694986-Dkj3d6mUYAAQtIp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 85/420 media/1021181307643154432-Div2-iwWsAA5ERJ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 86/420 media/1019243657029996549-DiUTapiX0AEPcXv.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 87/420 media/1019243657029996549-DiUUehsWsAEiLbz.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 88/420 media/1044200623871127555-Dn2-OinW0AEVrC0.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 89/420 media/1043960255141548036-Dnzj2CTXUAEdwg5.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 90/420 media/1041712977794289664-DnTnpPwX4AEgtdj.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 91/420 media/1039090498353483776-DmuXRh6XoAA5E7y.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 92/420 media/1035825135293554688-Dl_7tiZUUAA6V86.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 93/420 media/1035182835689250816-Dl20ISgXoAAJ3wv.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 94/420 media/1044304219266781184-Dn3riYLXgAAJPCT.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 95/420 media/1053681586410061826-Dp9ttVbWsAATzFu.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 96/420 media/1053681586410061826-Dp9ttVrX0AErw3K.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 97/420 media/1053681586410061826-Dp9ttWIWwAUkEz6.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 98/420 media/1053681586410061826-Dp9ttWzWkAEThKd.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 99/420 media/1053025034724368385-Dp0V_m0XgAACJFu.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+100/420 media/1050855159545376768-DpVjMDcXcAA85Py.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+101/420 media/1050417400435396613-DpPUlo_WwAEDv63.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+102/420 media/1050417400435396613-DpPU9dhXoAEcS8Z.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+103/420 media/1050416092642979840-DpPT2C6W4AA2OKt.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+104/420 media/1050400554881609728-DpPFKhUX4AA8MUH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+105/420 media/1064905733559541762-DsdNDnwX4AAdgfV.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+106/420 media/1062087800584130561-Dr1EVWfUcAAtqag.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+107/420 media/1059578967622107137-DrRg54TWsAUksM3.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+108/420 media/1059564189566537730-DrRTFRKWkAEfaf0.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+109/420 media/1056860295635914752-DqnNCheWkAApODt.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+110/420 media/1075305191304519680-DuxAVyhXgAA7kKF.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+111/420 media/1074987807591022592-DusNe7SXQAAhMwY.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+112/420 media/1072916113934176257-DuPDBdBXgAA0sGo.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+113/420 media/1072893329736646656-DuOuHe6WsAAR7US.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+114/420 media/1072543066366640129-DuJthVpWkAEnBdG.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+115/420 media/1071095224720605184-0jJgNLNZ6Fe_751V.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+116/420 media/1070063225314705409-Dtmg0SfW0AI4zCW.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+117/420 media/1070063225314705409-Dtmg0STWwAEPT2b.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+118/420 media/1086005725372080128-DxJEb4LX4AApdxR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+119/420 media/1085850727577276416-DxGeFSVX4AAF56E.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+120/420 media/1082733776797663232-DwaklLaXgActiTn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+121/420 media/1082733776797663232-DwaklLqWwAAkBck.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+122/420 media/1082733776797663232-DwaklLZXcAAAkBz.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+123/420 media/1082733776797663232-DwaklLaXcAAc-q7.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+124/420 media/1089833161771630592-Dx_dZD4XgAYjkGS.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+125/420 media/1088830043705487360-DxxM3NeWsAAScMm.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+126/420 media/1088830043705487360-DxxM3NdXQAE3w8q.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+127/420 media/1088784684509786114-DxwfScEU0AAHmYs.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+128/420 media/1087496325564940293-DxeQHC4U8AAWuQD.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+129/420 media/1087486060635009026-DxeGGNBU8AANCF4.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+130/420 media/1086412522054447105-DxO2IhYWoAACvs5.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+131/420 media/1086374042817478656-DxOTbaMWsAAUyaM.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+132/420 media/1103282204937867264-D0-lT4wUwAAPiT4.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+133/420 media/1103224276549681152-D09woF0VsAUTLmT.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+134/420 media/1101607367257526272-D0mx6frXgAAckHr.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+135/420 media/1101257356770459653-D0hzTelX0AEmFuy.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+136/420 media/1100883828841811969-D0cSqDRUUAAZFlX.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+137/420 media/639843565892448257-COEnvs3W8AAcm_d.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+138/420 media/630715732595212288-CMDAnbfXAAAQWBz.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+139/420 media/624240373376925696-CKm_TifWgAAmTv8.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+140/420 media/615284929828683776-CInuXF5WEAIB9nC.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+141/420 media/615284929828683776-CInuYceWsAAywDH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+142/420 media/1109897007362203648-D2clbhSW0AAIySW.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+143/420 media/1108686714736988160-D2LYoxJX4AA601M.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+144/420 media/1108686714736988160-D2LYrDMWoAM77Im.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+145/420 media/1108686714736988160-D2LYrDsXQAA1jN1.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+146/420 media/1108386605977481217-D2HG95nXcAEBtD6.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+147/420 media/1108006532510289921-D2BtyqGWkAEPy3h.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+148/420 media/1107428335691464704-D13OQMGXcAIKZEy.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+149/420 media/1106662548315738117-D1tXyISVAAIfL6A.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+150/420 media/1104894225877950464-D1VfbuQVsAAAjk6.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+151/420 media/1126987993313681408-D6PdgJlW0AATCHC.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+152/420 media/1126493487145345027-D6IamJaXsAEr_65.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+153/420 media/1126493487145345027-D6IanttWsAE0WZF.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+154/420 media/1124077003194421248-D5kPH77WAAAj-Wj.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+155/420 media/1124077003194421248-D5kPH74WkAUuRby.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+156/420 media/1124077003194421248-D5kPH70W4AEwdpW.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+157/420 media/1124077003194421248-D5kPH72W0AAAMKE.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+158/420 media/1123990126324060160-D5kT_dHXsAIkkRT.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+159/420 media/1123605020811902977-D5fYvMZX4AIsmTH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+160/420 media/1120996313187999744-D46Tuw5W0AAsbru.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+161/420 media/1120737975577477121-D42nwh1W0AEZEqM.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+162/420 media/1119294399165476865-D4hmU8pW0AA5L1P.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+163/420 media/1119294399165476865-D4hmU8oWwAE7F1f.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+164/420 media/1119294399165476865-D4hmU8oWkAYwERU.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+165/420 media/1116293995175514113-D33emUaW4AAOVK0.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+166/420 media/1116293995175514113-D33emUkW4AAZ6qA.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+167/420 media/1116293995175514113-D33emUbXsAApI1_.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+168/420 media/1115244756316106753-D3ojziCW0AQBIQw.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+169/420 media/1136596413658406914-ZY1LXVyfpkrQHhRq.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1136262934995329024/pu/vid/640x800/ZY1LXVyfpkrQHhRq.mp4?tag=10 because of exception: HTTPSConnectionPool(host='video.twimg.com', port=443): Read timed out. (read timeout=2)
+170/420 media/1133738996037824512-D7vWxldWwAARnjh.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+171/420 media/1130210473528430599-D67nsEWUwAE63yF.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+172/420 media/1127509474246369280-DqJXmgWXcAAhuxd.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+173/420 media/1127309013295738880-D6UBhYmWsAAjWXb.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+174/420 media/1153744363484274688-EALsXdwW4AAT9aP.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+175/420 media/1153744363484274688-EALsXdvWwAANu2-.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+176/420 media/1151413064761262080-D_qkEvzW4AADoCD.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+177/420 media/1144935322779865088-D9l8PK7XoAApMnG.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+178/420 media/1162003187626401795-ECA2DH1WwAAX6c_.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+179/420 media/1161665966557847552-EB8RB7CWsAAg0zX.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+180/420 media/1159135475610898432-EBYTkc4X4AIEZyi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+181/420 media/1157641938419552256-jDYqloowBIRdr7im.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+182/420 media/1156276553027923969-EAvrSM9WsAE9Ahz.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+183/420 media/1174991231824355328-EEy1qpfUUAA0_Kj.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+184/420 media/1168245582244327424-EDZxJcvWkAEr6nf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+185/420 media/1168245582244327424-EDZxJcyXsAA-A5B.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+186/420 media/1168245582244327424-EDZxJcuWwAE_B3c.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+187/420 media/1164298729563795457-EChrhN5XsAAVpjE.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+188/420 media/1164282235220111360-EChcgoFWkAUxxl6.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+189/420 media/1164166849174499328-ECfzk-jWwAA5NTT.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+190/420 media/1200200290009567232-pbaWAupIGPNZbr8-.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+191/420 media/1199996134162341888-EKcbqk1UwAAJTmO.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+192/420 media/1199785430218092549-EKAdV3YX0AAZJRH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+193/420 media/1197645559496105987-EJ7kSJPWoAEmA4J.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+194/420 media/1197645559496105987-EJ7kSJQXUAgRAjK.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+195/420 media/1197542989134008320-EJ6G_8mWoAAOP-G.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+196/420 media/1194194894757212161-9RXOU4R20bQ9dvD6.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+197/420 media/1190230338854895621-EISMLgtWsAALzHe.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+198/420 media/1189973472631541761-EIOij6hWkAApQ4W.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+199/420 media/1206277215861784577-kTDYXMArR2EW7ijA.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+200/420 media/1202176172005695488-EK73LogUUAAWoKn.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+201/420 media/1215286647836827653-EN2Qw00XkAECVdE.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+202/420 media/1210697109835583488-EM1CmaNX0AMT0Lg.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+203/420 media/1227700935541108736-EQmrfcLWoAEVOIl.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+204/420 media/1227191472794914817-EQfcI07XUAAtVw8.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+205/420 media/1227191472794914817-EQfcI1GXkAAyR_V.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+206/420 media/1227009823079849984-EQc27YvXYAECZGw.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+207/420 media/1224463399138025472-EP4q9-4WoAEh53W.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+208/420 media/1224463399138025472-EP4q9-8XkAEVRMv.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+209/420 media/1223341034903486469-EPouLm4XkAAbfd_.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+210/420 media/1223341034903486469-EPouLnEWoAEAviq.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+211/420 media/1223341034903486469-EPouLnHW4AkyW8_.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+212/420 media/1222209608116248577-EPYpKIwX4AAl-YY.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+213/420 media/1222209608116248577-EPYpKIqWkAgn1Gq.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+214/420 media/1222209608116248577-EPYpKI1XUAUUfT0.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+215/420 media/669948488348749824-CUwRhMuUcAEhCLo.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+216/420 media/664126712784027648-CTdzuZSWIAErvh6.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+217/420 media/651548168593739777-CQrDm2nWwAA25qh.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+218/420 media/649531088675733504-CQOZFQWWsAEN9DS.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+219/420 media/1237709811355172864-ES05ukJXYAEoCV3.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+220/420 media/1237702333578051585-ES0zT07XkAA1Frs.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+221/420 media/1237095803065335808-ESsL0nuXgAEpBlW.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+222/420 media/1237093863174688769-ESsJ6LeWsAMPNly.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+223/420 media/1237063698495176705-ESruXDxX0AE8hgy.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+224/420 media/1236436089184944128-eHakgRWOPKD-LpZD.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+225/420 media/1235570419312152576-ESWgn_CWoAI3Jkx.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+226/420 media/1234915678479667200-ESNMijEXsAIZu8D.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+227/420 media/1243604758700711939-EUIrnQ8XgAk2qMc.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+228/420 media/1241506373709574151-ETq1jWAX0AA4oYX.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+229/420 media/1241061813858512899-ETkjHuyXYAAs98h.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+230/420 media/1240383479319273473-gLAlmfu-c4WgLAtY.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1240327582559567872/pu/vid/720x1280/gLAlmfu-c4WgLAtY.mp4?tag=10 because of exception: HTTPSConnectionPool(host='video.twimg.com', port=443): Read timed out. (read timeout=2)
+231/420 media/1239681124093304833-ESul5OWWsAAejeD.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+232/420 media/1247660108928221185-EVCSikzXkAIFZJa.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+233/420 media/1247660108928221185-EVCSoaKWAAAL1tE.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+234/420 media/1247660108928221185-EVCSoaJXsAskgJZ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+235/420 media/1247660108928221185-EVCSoaOWsAIHqQq.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+236/420 media/1247469975721345028-EU_kW0YWoAEuANx.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+237/420 media/1246924072744890368-EU32JbCX0AoyFKY.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+238/420 media/1246178456880152578-EUtQsG0WsAsxrfq.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+239/420 media/1244736881989992449-EUYudepWsAUd6Im.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+240/420 media/1244679781523894274-EUX9fNrWAAY4T-J.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+241/420 media/1244658880417800192-EUXqAQbWkAU4iZ2.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+242/420 media/1261392478424510465-EYFduAYXsAUX8oL.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+243/420 media/1258144088282615815-EXXTBUJUcAAM2bT.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+244/420 media/1255087082592243712-EWr28abWoAEuDvj.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+245/420 media/1251255213304033280-EV1Z4yoWoAAmWYL.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+246/420 media/1251252212975763456-EV1XNoWXkAEQj4n.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+247/420 media/1250905202598830086-EVwa82aXsAA1Ka8.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+248/420 media/1248370608884330496-EVMZf0-XsAApdUq.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+249/420 media/1268436898583846913-G3jIO1nv-fQo8LOQ.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1268342502731526146/pu/vid/720x1280/G3jIO1nv-fQo8LOQ.mp4?tag=10 because of exception: HTTPSConnectionPool(host='video.twimg.com', port=443): Read timed out. (read timeout=2)
+250/420 media/1267165366263914496-EZV7c1nXQAEiR45.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+251/420 media/1265336787431497730-EY9fnaiXkAMzp5o.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+252/420 media/1265285245580070912-EY8xje_XkAENZLo.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+253/420 media/1265258984476475393-EY8Z1o-XYAAJwdR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+254/420 media/1263474555789684736-EYjDZnVXkAES1n2.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+255/420 media/1275210224081739779-EbJ069KWoAEF8g9.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+256/420 media/1271105490693562375-kbqrocf0HgifV0wV.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+257/420 media/1270379789141016577-EaFLQlqXkAAdW9c.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+258/420 media/1268884412508315649-EZv7nXaWsAM0_wc.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+259/420 media/1280262439867645956-EcRmBxFXsAEX40H.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+260/420 media/1277027634883579906-EbjpAB_WAAAWKqp.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+261/420 media/1276943381890060290-EbidA0aWoAENcLS.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+262/420 media/1276938999844802560-EbiYWH8XQAEjY0D.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+263/420 media/1276938996912984066-EbiYLQsXgAA6FI_.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+264/420 media/1276287850934407168-EbYnFFQXkAEUAvw.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EbYnFFQXkAEUAvw.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+265/420 media/1285893154378588161-Edho8HBXsAIvOij.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+266/420 media/1285209783147073536-EdXZd7mXsAA_WMf.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+267/420 media/1285209783147073536-EdXZlXWWoAAVs0T.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+268/420 media/1285209783147073536-EdXZotnWAAQ-env.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+269/420 media/1285209783147073536-EdXZuGIXoAEI8Aw.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+270/420 media/1282459282383011843-ZruQVtdRryoegDnD.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+271/420 media/1290308565245112321-EegYyJVWoAEEnUc.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+272/420 media/1290301308398735360-EegSL8lXoAAVath.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+273/420 media/1287471019482112000-Ed4D6rgXkAA2yXd.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+274/420 media/1293918522897129472-EfTpV7bU0AA798R.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+275/420 media/719616952210223106-CfyXzNHWIAEuUkV.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+276/420 media/703246321281581056-CcJLIs2VIAAN0WH.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+277/420 media/1307291193999581185-EiRO77KUYAAX0uX.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+278/420 media/1307291193999581185-EiRO79EU0AAjZTu.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+279/420 media/1304477717258174468-EhpsKirU4AAS78A.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+280/420 media/1301912555019886592-EhFSZIqXgAAcUEP.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+281/420 media/1300922536461508608-Eg3N8YiX0AIc5hn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+282/420 media/1315057472076500993-Ej_wI_iWkAcXlEg.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Ej_wI_iWkAcXlEg.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+283/420 media/1315057472076500993-Ej_wPqFXsAQZBWt.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Ej_wPqFXsAQZBWt.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+284/420 media/1314992592044593152-Ej_KyLQXgAISEkp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+285/420 media/1308117729363320833-Eidd3hpWkAgDZuu.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+286/420 media/1323010358639022081-_CxNfrXCQL4PoMiK.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+287/420 media/1320882187542155266-ElS29VeXEAA5dTi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+288/420 media/1320046350617186307-ElG-9DmXgAAeS2J.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+289/420 media/1318942490985156608-Ek3QaJJX0AARdrW.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+290/420 media/1317923535105478656-kPrjukTXIEl50tXq.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+291/420 media/1325137124505513984-EmPVLESVoAAyhDl.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+292/420 media/1323661697975046145-El6XDdFXUAAthaS.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+293/420 media/1332621192075890689-Q1P1WLseqOz6yoDf.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+294/420 media/1330334624132837384-eagclxpFJK9GeXnd.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+295/420 media/1329913753211691008-ikxx-wf1l__9IxXy.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+296/420 media/1329524633721315372-5U27Ar0SObaD0TtP.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+297/420 media/1328502982573428736-RsOtSCOw8k7uqLyX.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+298/420 media/1328078076593524740-Em5H93uXYAIfsrh.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+299/420 media/1333037236523294721-En_mBE0W4AE79VC.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+300/420 media/1345197649876705280-8A3LZ4hI0SL6NfC6.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+301/420 media/1344799320097382404-d99UuxPih_uQpovh.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+302/420 media/1344372148761145344-EqgqVQNWMAQklyX.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+303/420 media/1343361490741469185-EqSS0YcXUAAJFNB.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+304/420 media/1339651563464372231-ty7U3uTSedxDNhcp.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+305/420 media/1356923312463560705-9jnGiAMXAid_J95V.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+306/420 media/1355301565922500608-MudfdMco6mqSxIIz.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+307/420 media/1355249866574868484-Es6apxTW4AIA_kv.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+308/420 media/1345400699480367104-EqvSdDQXUAY-uRh.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+309/420 media/1362390074382508035-EZu3JtgXgAIpolY.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+310/420 media/1358941902603776009-EtvtrQ1XUAAh3l0.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+311/420 media/1357794425703915521-Etfa0JOXMAAUY5y.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+312/420 media/1357674702517530629-Etds3R3XEAAQOF-.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+313/420 media/757935732019331072-CoS6U81W8AAoNTY.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+314/420 media/753995290378502145-CnQOlAiXgAEQDFH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+315/420 media/750003798777659393-CmiMSwwWYAErcG8.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+316/420 media/742453699298131970-Ck25s8DWgAAts-h.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+317/420 media/731168964659822592-CiV3p8_WUAAVyv0.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+318/420 media/1387019594263678989-Ez-upt_WEAUTz30.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+319/420 media/1384226381127553028-EzXCRM4VkAcldrn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+320/420 media/1381631900167589890-EyyKvDMXAAQZnEp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+321/420 media/1396957085791883264-E2L8pvGWUAMKT0Q.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+322/420 media/1395309812251074560-E10f5CFXMAA-lLr.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+323/420 media/1395309812251074560-E10iVdbXoAEhIze.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+324/420 media/1395309805028392960-E10dxWOWYAAwrKo.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+325/420 media/1395309798166573056-E10dfaRXsAA7gGi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+326/420 media/1393669075214217216-84XAtNVvFmOhrFQV.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+327/420 media/1406338455840382977-E4RQ8eYX0AUdPqD.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+328/420 media/1406338455840382977-E4RREKvX0AAXWqn.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+329/420 media/1405543873309380613-E4F-m8yVUAAAZQ8.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+330/420 media/1402008612940226560-E3TvV12WUAMSCwm.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+331/420 media/1432352477500805122-E-C8yuKWYAMZ6Dw.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+332/420 media/1419616716540284931-E7N9u3yWEAM1f-n.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+333/420 media/1419410070656401408-E7LB0txXIAAbEQM.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+334/420 media/1451552152879603718-FCTy8IiWQAM-Q4N.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+335/420 media/1446448502704427013-FBLQ9eNXsAEbL5W.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+336/420 media/1441787262526701570-FAJB3brXIAMTNFH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+337/420 media/1441780315249209344-FAI7ZEDVkAYzvyd.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+338/420 media/1441761626215092229-FAIqfzPVUBIJVv2.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+339/420 media/1441752219880202249-FAIh_j2XEAA3h0X.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+340/420 media/1441738252973658112-FAIVLDhWQAIjIsG.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+341/420 media/1467565032380719105-FF3VcbaXMAE3H6D.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+342/420 media/1458935295764750337-FD8ttDPWUAISrzr.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+343/420 media/1458391353944158211-FD0-9e9WEAUmoT-.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+344/420 media/1458391353944158211-FD0-_uFXoAINXtA.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+345/420 media/1478284174796771329-FIPrQ60XwAI46FN.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+346/420 media/1477786706157920260-d-YZWtY_0uIkDf-f.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+347/420 media/1477413420228132865-gOx_KvgnlDo4qzyx.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+348/420 media/1469010484594679808-FGL5DCIWYA40m6k.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+349/420 media/1481429283688095745-FI8X-r8XMAcz1HA.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+350/420 media/1481417828964225025-FI8J56gWUAAPZq7.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+351/420 media/1481417828964225025-FI8NOLkXEAYS5Q7.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+352/420 media/1481383690718654466-FI7ufOUWUAA--O1.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+353/420 media/1481379381822042117-FI7qhLLX0AUxojc.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+354/420 media/1481374430160994304-FI7l1T3XwAYPF-4.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+355/420 media/1481369201226956803-FI7hGrjXEAUqInK.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+356/420 media/1481355762098188292-FI7UwUvXsAAKo2z.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+357/420 media/1480918501711917065-FI1GluhXMAcy-1i.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+358/420 media/1480842789315297280-FI0Ck0XX0AIdhJl.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+359/420 media/1480842789315297280-FI0Ck0XWUAcA5Wl.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+360/420 media/1480842789315297280-FI0Ck0YWUAAkaiL.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+361/420 media/1480842789315297280-FI0CkzbXwAI9DWw.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+362/420 media/1480713628017991681-FIyNGZnXwAIMHf7.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+363/420 media/1480713628017991681-FIyNK1DXIAU5nWG.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+364/420 media/1480665057042313218-FIxg_i-VEAEDfpt.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+365/420 media/1480661675191721984-FIxdzFFWUAI8U8t.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+366/420 media/1488187253964914695-FKcZbHcXoAsKcF-.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+367/420 media/1486484334244773889-FKENCewX0AExm9V.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+368/420 media/1486484334244773889-FKENFl9XwAAdVba.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+369/420 media/1485387115076759559-FJwUfvUVkAE3sly.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+370/420 media/1483352327943856130-FJW9THOVgAI63Wa.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THOVgAI63Wa.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+371/420 media/1483352327943856130-FJW9THQVEAAdBht.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THQVEAAdBht.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+372/420 media/1483352327943856130-FJW9THSUUAAtsSX.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THSUUAAtsSX.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+373/420 media/1483352327943856130-FJW9THOVQAMaSwp.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THOVQAMaSwp.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+374/420 media/1482995977829109770-FJSoB7xXoAE9LpK.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+375/420 media/1482903182783266825-FJRRK9nXIAcZiL_.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+376/420 media/1482903182783266825-FJRRL4UX0AAtjbP.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+377/420 media/1482903182783266825-FJRRM_pXwAUdBqm.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+378/420 media/1482472368471949312-FJLMvkSXsAEwH35.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+379/420 media/1482471897141059587-FJLMSqWXIAkIwr5.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+380/420 media/1491142888860024834-1aY85JTR9IOU6s-2.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+381/420 media/1491137444745383939-FLGUp7hXEAAyj7b.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+382/420 media/1491137435606319104-GIXjrDCIGCRenMdH.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+383/420 media/1491062774893805569-FLFNkDnXoAYp5af.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+384/420 media/1490839234864889860-FLCGWfcX0AMGjvT.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+385/420 media/1490835375673454592-FLCBVEdXwAAXf38.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+386/420 media/1489684695482867715-FKxsUomWQAMEia0.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+387/420 media/1489156254018715649-FKqLiHiWQAE6aqs.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+388/420 media/1489047534160994313-FKoo0YZXwAE7nC9.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+389/420 media/1488926151124959239-FKm6UfRXsAIok0b.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+390/420 media/806292021711347713-CzCF1KDXgAAg-Ms.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+391/420 media/805114589323153408-CywObw_XUAAIDgY.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+392/420 media/802084777440542720-zW05UZoceh0tIpw0.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/802032299365847040/pu/vid/1280x720/zW05UZoceh0tIpw0.mp4 because of exception: HTTPSConnectionPool(host='video.twimg.com', port=443): Read timed out. (read timeout=2)
+393/420 media/796355034615201792-Cw04l18W8AAWKcu.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+394/420 media/795938205698822144-Cwu9P8bXcAAxRJK.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+395/420 media/793814153924374528-CwQxb9XWEAIZHIO.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+396/420 media/789451907144220672-CvSyOlyXYAANYi7.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+397/420 media/789451907144220672-CvSyPikW8AA1NHV.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+398/420 media/789451907144220672-CvSyQj1WYAE02Hi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+399/420 media/1517063312160309249-FQ2uvm-UYAAVRWM.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+400/420 media/1504880166312497159-FOJoMUxXEAIhafZ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+401/420 media/1497250441951956998-FMdGJe1XoAoNkFB.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+402/420 media/1496904827871371273-FMYS4b-X0AAILNO.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+403/420 media/1496904827871371273-FMYS6XKX0AcMbH8.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+404/420 media/1493679723985178625-iuSYsk2rbOuR91tU.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+405/420 media/1492122849636724736-FLUVxeyXEAc935s.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+406/420 media/853608780340371456-CmEU1PUUsAEsLFp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+407/420 media/847020302609604609-C8E2ofSW0AAGS8M.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+408/420 media/842690535425003520-C7HWb7xXgAAAWUP.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+409/420 media/842153345309675521-C6_Cn6mXAAYH18b.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+410/420 media/840239403792551936-C6kgexYWkAAZuRB.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+411/420 media/838809499079168001-C6P13NSXQAAy3qH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+412/420 media/836611814096060416-C5w91AZXQAAU9k3.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+413/420 media/827283404211171329-C3sZnGbUMAAJPRR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+414/420 media/875642467097337856-DCboE-AVwAI_aAW.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+415/420 media/865572901428355073-DAMhu3wXsAAmgdf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+416/420 media/861684408423776262-C_VRNyIWsAAO2ll.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+417/420 media/855907070499016710-C-DKw8_WAAAp-Bn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+418/420 media/854701490308603904-C9yCO1KWAAUePzI.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+419/420 media/854395126684278784-C9trbPMXcAAWXeA.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+420/420 media/853610299336863746-CmEUpxLVAAA-zD3.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+
+409 of 420 tested media files are known to be the best-quality available.
+
+  1/ 11 media/1136596413658406914-ZY1LXVyfpkrQHhRq.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  2/ 11 media/1240383479319273473-gLAlmfu-c4WgLAtY.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  3/ 11 media/1268436898583846913-G3jIO1nv-fQo8LOQ.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  4/ 11 media/1276287850934407168-EbYnFFQXkAEUAvw.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EbYnFFQXkAEUAvw.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  5/ 11 media/1315057472076500993-Ej_wI_iWkAcXlEg.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Ej_wI_iWkAcXlEg.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  6/ 11 media/1315057472076500993-Ej_wPqFXsAQZBWt.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Ej_wPqFXsAQZBWt.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  7/ 11 media/1483352327943856130-FJW9THOVgAI63Wa.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THOVgAI63Wa.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  8/ 11 media/1483352327943856130-FJW9THQVEAAdBht.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THQVEAAdBht.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  9/ 11 media/1483352327943856130-FJW9THSUUAAtsSX.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THSUUAAtsSX.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 10/ 11 media/1483352327943856130-FJW9THOVQAMaSwp.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THOVQAMaSwp.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+ 11/ 11 media/802084777440542720-zW05UZoceh0tIpw0.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+
+4 of 11 tested media files are known to be the best-quality available.
+
+  1/  7 media/1276287850934407168-EbYnFFQXkAEUAvw.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EbYnFFQXkAEUAvw.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  2/  7 media/1315057472076500993-Ej_wI_iWkAcXlEg.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Ej_wI_iWkAcXlEg.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  3/  7 media/1315057472076500993-Ej_wPqFXsAQZBWt.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Ej_wPqFXsAQZBWt.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  4/  7 media/1483352327943856130-FJW9THOVgAI63Wa.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THOVgAI63Wa.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  5/  7 media/1483352327943856130-FJW9THQVEAAdBht.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THQVEAAdBht.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  6/  7 media/1483352327943856130-FJW9THSUUAAtsSX.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THSUUAAtsSX.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  7/  7 media/1483352327943856130-FJW9THOVQAMaSwp.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THOVQAMaSwp.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+
+0 of 7 tested media files are known to be the best-quality available.
+
+  1/  7 media/1276287850934407168-EbYnFFQXkAEUAvw.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EbYnFFQXkAEUAvw.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  2/  7 media/1315057472076500993-Ej_wI_iWkAcXlEg.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Ej_wI_iWkAcXlEg.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  3/  7 media/1315057472076500993-Ej_wPqFXsAQZBWt.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Ej_wPqFXsAQZBWt.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  4/  7 media/1483352327943856130-FJW9THOVgAI63Wa.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THOVgAI63Wa.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  5/  7 media/1483352327943856130-FJW9THQVEAAdBht.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THQVEAAdBht.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  6/  7 media/1483352327943856130-FJW9THSUUAAtsSX.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THSUUAAtsSX.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  7/  7 media/1483352327943856130-FJW9THOVQAMaSwp.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THOVQAMaSwp.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+
+0 of 7 tested media files are known to be the best-quality available.
+
+  1/  7 media/1276287850934407168-EbYnFFQXkAEUAvw.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/EbYnFFQXkAEUAvw.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  2/  7 media/1315057472076500993-Ej_wI_iWkAcXlEg.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Ej_wI_iWkAcXlEg.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  3/  7 media/1315057472076500993-Ej_wPqFXsAQZBWt.png: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/Ej_wPqFXsAQZBWt.png:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  4/  7 media/1483352327943856130-FJW9THOVgAI63Wa.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THOVgAI63Wa.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  5/  7 media/1483352327943856130-FJW9THQVEAAdBht.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THQVEAAdBht.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  6/  7 media/1483352327943856130-FJW9THSUUAAtsSX.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THSUUAAtsSX.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+  7/  7 media/1483352327943856130-FJW9THOVQAMaSwp.jpg: FAIL. Media couldn't be retrieved from https://pbs.twimg.com/media/FJW9THOVQAMaSwp.jpg:orig because of exception: Download failed with status "404 Not Found". Response content: ""
+
+0 of 7 tested media files are known to be the best-quality available.
+
+Total downloaded: 0.0MB = 0.00GB
+Time taken: 380s

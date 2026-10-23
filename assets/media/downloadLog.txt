@@ -1,0 +1,353 @@
+1/349: Fail. Downloaded version is same size or smaller than media\1008410063189565440-Df6XLPIXcAIOl6J.jpg, 1.6MB downloaded.
+2/349: Fail. Downloaded version is same size or smaller than media\1010638114417766400-DgaB-pAW4AATrMb.jpg, 2.1MB downloaded.
+3/349: Fail. Downloaded version is same size or smaller than media\1011624514877362178-DgoDDz6WsAAUyFN.jpg, 0.1MB downloaded.
+4/349: Fail. Downloaded version is same size or smaller than media\1012007116419293184-DgtfDU5WkAEI2aP.jpg, 0.1MB downloaded.
+5/349: Fail. Downloaded version is same size or smaller than media\1012444373051691010-DgzrtfMW4Acwesx.jpg, 0.4MB downloaded.
+6/349: Fail. Downloaded version is same size or smaller than media\1013776049023397888-DhGh4GLUYAEtzUu.jpg, 0.9MB downloaded.
+7/349: Fail. Downloaded version is same size or smaller than media\1014315991243853825-DhOR2h5X4AE1mSw.jpg, 1.6MB downloaded.
+8/349: Fail. Downloaded version is same size or smaller than media\1015235087951163393-DhbS1g4XcAEolox.jpg, 1.2MB downloaded.
+9/349: Fail. Downloaded version is same size or smaller than media\1015722956150984705-DhiSoEdX4AAWDqx.jpg, 1.1MB downloaded.
+10/349: Fail. Downloaded version is same size or smaller than media\1019243657029996549-DiUTapiX0AEPcXv.jpg, 0.0MB downloaded.
+11/349: Fail. Downloaded version is same size or smaller than media\1021181307643154432-Div2-iwWsAA5ERJ.jpg, 0.1MB downloaded.
+12/349: Fail. Downloaded version is same size or smaller than media\1029360424045694986-Dkj3d6mUYAAQtIp.jpg, 0.1MB downloaded.
+13/349: Fail. Downloaded version is same size or smaller than media\1029746018232029184-DkpkC5mX4AAiOoE.jpg, 1.2MB downloaded.
+14/349: Fail. Downloaded version is same size or smaller than media\1035182835689250816-Dl20ISgXoAAJ3wv.jpg, 0.9MB downloaded.
+15/349: Fail. Downloaded version is same size or smaller than media\1035825135293554688-Dl_7tiZUUAA6V86.mp4, 0.7MB downloaded.
+16/349: Fail. Downloaded version is same size or smaller than media\1039090498353483776-DmuXRh6XoAA5E7y.jpg, 0.0MB downloaded.
+17/349: Fail. Downloaded version is same size or smaller than media\1041712977794289664-DnTnpPwX4AEgtdj.jpg, 0.1MB downloaded.
+18/349: Success. Overwrote media\1043960255141548036-Dnzj2CTXUAEdwg5.jpg with downloaded version that is 2% larger, 0.2MB downloaded.
+19/349: Success. Overwrote media\1044200623871127555-Dn2-OinW0AEVrC0.jpg with downloaded version that is 608% larger, 1.0MB downloaded.
+20/349: Success. Overwrote media\1044304219266781184-Dn3riYLXgAAJPCT.jpg with downloaded version that is 113% larger, 0.3MB downloaded.
+21/349: Success. Overwrote media\1050400554881609728-DpPFKhUX4AA8MUH.jpg with downloaded version that is 122% larger, 0.1MB downloaded.
+22/349: Success. Overwrote media\1050416092642979840-DpPT2C6W4AA2OKt.jpg with downloaded version that is 48% larger, 0.1MB downloaded.
+23/349: Success. Overwrote media\1050417400435396613-DpPUlo_WwAEDv63.jpg with downloaded version that is 48% larger, 0.1MB downloaded.
+24/349: Success. Overwrote media\1050855159545376768-DpVjMDcXcAA85Py.jpg with downloaded version that is 126% larger, 0.6MB downloaded.
+25/349: Fail. Downloaded version is same size or smaller than media\1053025034724368385-Dp0V_m0XgAACJFu.jpg, 0.1MB downloaded.
+26/349: Success. Overwrote media\1053681586410061826-Dp9ttVbWsAATzFu.jpg with downloaded version that is 116% larger, 0.6MB downloaded.
+27/349: Success. Overwrote media\1056860295635914752-DqnNCheWkAApODt.jpg with downloaded version that is 1% larger, 0.2MB downloaded.
+28/349: Fail. Downloaded version is same size or smaller than media\1059564189566537730-DrRTFRKWkAEfaf0.mp4, 0.1MB downloaded.
+29/349: Fail. Downloaded version is same size or smaller than media\1059578967622107137-DrRg54TWsAUksM3.mp4, 0.1MB downloaded.
+30/349: Fail. Downloaded version is same size or smaller than media\1062087800584130561-Dr1EVWfUcAAtqag.png, 0.1MB downloaded.
+31/349: Fail. Downloaded version is same size or smaller than media\1064905733559541762-DsdNDnwX4AAdgfV.mp4, 0.0MB downloaded.
+32/349: Success. Overwrote media\1070063225314705409-Dtmg0SfW0AI4zCW.jpg with downloaded version that is 394% larger, 0.8MB downloaded.
+33/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/0jJgNLNZ6Fe_751V.mp4 Filename: media\1071095224720605184-0jJgNLNZ6Fe_751V.mp4
+34/349: Fail. Downloaded version is same size or smaller than media\1072543066366640129-DuJthVpWkAEnBdG.mp4, 1.8MB downloaded.
+35/349: Fail. Downloaded version is same size or smaller than media\1072893329736646656-DuOuHe6WsAAR7US.jpg, 0.0MB downloaded.
+36/349: Fail. Downloaded version is same size or smaller than media\1072916113934176257-DuPDBdBXgAA0sGo.jpg, 0.0MB downloaded.
+37/349: Success. Overwrote media\1074987807591022592-DusNe7SXQAAhMwY.jpg with downloaded version that is 126% larger, 0.7MB downloaded.
+38/349: Success. Overwrote media\1075305191304519680-DuxAVyhXgAA7kKF.jpg with downloaded version that is 902% larger, 0.7MB downloaded.
+39/349: Success. Overwrote media\1082733776797663232-DwaklLaXgActiTn.jpg with downloaded version that is 1102% larger, 1.1MB downloaded.
+40/349: Fail. Downloaded version is same size or smaller than media\1085850727577276416-DxGeFSVX4AAF56E.jpg, 0.0MB downloaded.
+41/349: Success. Overwrote media\1086005725372080128-DxJEb4LX4AApdxR.jpg with downloaded version that is 766% larger, 1.5MB downloaded.
+42/349: Fail. Downloaded version is same size or smaller than media\1086374042817478656-DxOTbaMWsAAUyaM.jpg, 0.1MB downloaded.
+43/349: Success. Overwrote media\1086412522054447105-DxO2IhYWoAACvs5.jpg with downloaded version that is 96% larger, 0.3MB downloaded.
+44/349: Fail. Downloaded version is same size or smaller than media\1087486060635009026-DxeGGNBU8AANCF4.mp4, 0.9MB downloaded.
+45/349: Fail. Downloaded version is same size or smaller than media\1087496325564940293-DxeQHC4U8AAWuQD.mp4, 0.5MB downloaded.
+46/349: Success. Overwrote media\1088784684509786114-DxwfScEU0AAHmYs.jpg with downloaded version that is 611% larger, 2.0MB downloaded.
+47/349: Success. Overwrote media\1088830043705487360-DxxM3NeWsAAScMm.jpg with downloaded version that is 2% larger, 0.2MB downloaded.
+48/349: Success. Overwrote media\1089833161771630592-Dx_dZD4XgAYjkGS.jpg with downloaded version that is 63% larger, 0.1MB downloaded.
+49/349: Success. Overwrote media\1100883828841811969-D0cSqDRUUAAZFlX.jpg with downloaded version that is 72% larger, 0.1MB downloaded.
+50/349: Fail. Downloaded version is same size or smaller than media\1101257356770459653-D0hzTelX0AEmFuy.png, 0.2MB downloaded.
+51/349: Fail. Downloaded version is same size or smaller than media\1101607367257526272-D0mx6frXgAAckHr.jpg, 0.1MB downloaded.
+52/349: Fail. Downloaded version is same size or smaller than media\1103224276549681152-D09woF0VsAUTLmT.jpg, 0.1MB downloaded.
+53/349: Success. Overwrote media\1103282204937867264-D0-lT4wUwAAPiT4.jpg with downloaded version that is 56% larger, 0.2MB downloaded.
+54/349: Success. Overwrote media\1104894225877950464-D1VfbuQVsAAAjk6.jpg with downloaded version that is 691% larger, 1.7MB downloaded.
+55/349: Fail. Downloaded version is same size or smaller than media\1106662548315738117-D1tXyISVAAIfL6A.jpg, 0.2MB downloaded.
+56/349: Fail. Downloaded version is same size or smaller than media\1107428335691464704-D13OQMGXcAIKZEy.jpg, 0.1MB downloaded.
+57/349: Fail. Downloaded version is same size or smaller than media\1108006532510289921-D2BtyqGWkAEPy3h.mp4, 0.1MB downloaded.
+58/349: Fail. Downloaded version is same size or smaller than media\1108386605977481217-D2HG95nXcAEBtD6.png, 0.3MB downloaded.
+59/349: Success. Overwrote media\1108686714736988160-D2LYoxJX4AA601M.jpg with downloaded version that is 133% larger, 0.6MB downloaded.
+60/349: Success. Overwrote media\1109897007362203648-D2clbhSW0AAIySW.jpg with downloaded version that is 473% larger, 0.7MB downloaded.
+61/349: Fail. Downloaded version is same size or smaller than media\1115244756316106753-D3ojziCW0AQBIQw.png, 0.1MB downloaded.
+62/349: Fail. Downloaded version is same size or smaller than media\1116293995175514113-D33emUaW4AAOVK0.png, 0.0MB downloaded.
+63/349: Fail. Downloaded version is same size or smaller than media\1119294399165476865-D4hmU8pW0AA5L1P.jpg, 0.1MB downloaded.
+64/349: Success. Overwrote media\1120737975577477121-D42nwh1W0AEZEqM.jpg with downloaded version that is 781% larger, 2.4MB downloaded.
+65/349: Success. Overwrote media\1120996313187999744-D46Tuw5W0AAsbru.jpg with downloaded version that is 497% larger, 0.3MB downloaded.
+66/349: Success. Overwrote media\1123605020811902977-D5fYvMZX4AIsmTH.jpg with downloaded version that is 148% larger, 1.1MB downloaded.
+67/349: Fail. Downloaded version is same size or smaller than media\1123990126324060160-D5kT_dHXsAIkkRT.mp4, 0.5MB downloaded.
+68/349: Success. Overwrote media\1124077003194421248-D5kPH77WAAAj-Wj.jpg with downloaded version that is 44% larger, 0.2MB downloaded.
+69/349: Success. Overwrote media\1126493487145345027-D6IamJaXsAEr_65.jpg with downloaded version that is 482% larger, 1.0MB downloaded.
+70/349: Fail. Downloaded version is same size or smaller than media\1126987993313681408-D6PdgJlW0AATCHC.mp4, 0.4MB downloaded.
+71/349: Fail. Downloaded version is same size or smaller than media\1127309013295738880-D6UBhYmWsAAjWXb.mp4, 1.9MB downloaded.
+72/349: Fail. Downloaded version is same size or smaller than media\1127509474246369280-DqJXmgWXcAAhuxd.jpg, 0.0MB downloaded.
+73/349: Success. Overwrote media\1130210473528430599-D67nsEWUwAE63yF.jpg with downloaded version that is 697% larger, 1.3MB downloaded.
+74/349: Success. Overwrote media\1133738996037824512-D7vWxldWwAARnjh.jpg with downloaded version that is 137% larger, 0.6MB downloaded.
+75/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/ZY1LXVyfpkrQHhRq.mp4 Filename: media\1136596413658406914-ZY1LXVyfpkrQHhRq.mp4
+76/349: Success. Overwrote media\1144935322779865088-D9l8PK7XoAApMnG.jpg with downloaded version that is 156% larger, 0.4MB downloaded.
+77/349: Fail. Downloaded version is same size or smaller than media\1151413064761262080-D_qkEvzW4AADoCD.png, 0.4MB downloaded.
+78/349: Success. Overwrote media\1153744363484274688-EALsXdwW4AAT9aP.jpg with downloaded version that is 935% larger, 1.4MB downloaded.
+79/349: Success. Overwrote media\1156276553027923969-EAvrSM9WsAE9Ahz.jpg with downloaded version that is 992% larger, 1.4MB downloaded.
+80/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/jDYqloowBIRdr7im.mp4 Filename: media\1157641938419552256-jDYqloowBIRdr7im.mp4
+81/349: Fail. Downloaded version is same size or smaller than media\1159135475610898432-EBYTkc4X4AIEZyi.jpg, 0.1MB downloaded.
+82/349: Success. Overwrote media\1161665966557847552-EB8RB7CWsAAg0zX.jpg with downloaded version that is 643% larger, 0.8MB downloaded.
+83/349: Success. Overwrote media\1162003187626401795-ECA2DH1WwAAX6c_.jpg with downloaded version that is 442% larger, 0.8MB downloaded.
+84/349: Fail. Downloaded version is same size or smaller than media\1164166849174499328-ECfzk-jWwAA5NTT.png, 0.0MB downloaded.
+85/349: Success. Overwrote media\1164282235220111360-EChcgoFWkAUxxl6.jpg with downloaded version that is 572% larger, 2.1MB downloaded.
+86/349: Fail. Downloaded version is same size or smaller than media\1164298729563795457-EChrhN5XsAAVpjE.jpg, 0.1MB downloaded.
+87/349: Success. Overwrote media\1168245582244327424-EDZxJcvWkAEr6nf.jpg with downloaded version that is 615% larger, 1.9MB downloaded.
+88/349: Fail. Downloaded version is same size or smaller than media\1174991231824355328-EEy1qpfUUAA0_Kj.mp4, 0.3MB downloaded.
+89/349: Fail. Downloaded version is same size or smaller than media\1189973472631541761-EIOij6hWkAApQ4W.mp4, 0.1MB downloaded.
+90/349: Success. Overwrote media\1190230338854895621-EISMLgtWsAALzHe.jpg with downloaded version that is 90% larger, 0.4MB downloaded.
+91/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/9RXOU4R20bQ9dvD6.mp4 Filename: media\1194194894757212161-9RXOU4R20bQ9dvD6.mp4
+92/349: Fail. Downloaded version is same size or smaller than media\1197542989134008320-EJ6G_8mWoAAOP-G.jpg, 0.1MB downloaded.
+93/349: Success. Overwrote media\1197645559496105987-EJ7kSJPWoAEmA4J.jpg with downloaded version that is 66% larger, 0.1MB downloaded.
+94/349: Success. Overwrote media\1199785430218092549-EKAdV3YX0AAZJRH.jpg with downloaded version that is 847% larger, 1.1MB downloaded.
+95/349: Fail. Downloaded version is same size or smaller than media\1199996134162341888-EKcbqk1UwAAJTmO.mp4, 0.4MB downloaded.
+96/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/pbaWAupIGPNZbr8-.mp4 Filename: media\1200200290009567232-pbaWAupIGPNZbr8-.mp4
+97/349: Fail. Downloaded version is same size or smaller than media\1202176172005695488-EK73LogUUAAWoKn.mp4, 0.0MB downloaded.
+98/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/kTDYXMArR2EW7ijA.mp4 Filename: media\1206277215861784577-kTDYXMArR2EW7ijA.mp4
+99/349: Fail. Downloaded version is same size or smaller than media\1210697109835583488-EM1CmaNX0AMT0Lg.jpg, 0.1MB downloaded.
+100/349: Fail. Downloaded version is same size or smaller than media\1215286647836827653-EN2Qw00XkAECVdE.jpg, 0.1MB downloaded.
+101/349: Fail. Downloaded version is same size or smaller than media\1222209608116248577-EPYpKIwX4AAl-YY.jpg, 0.1MB downloaded.
+102/349: Success. Overwrote media\1223341034903486469-EPouLm4XkAAbfd_.jpg with downloaded version that is 155% larger, 0.4MB downloaded.
+103/349: Fail. Downloaded version is same size or smaller than media\1224463399138025472-EP4q9-4WoAEh53W.png, 0.1MB downloaded.
+104/349: Fail. Downloaded version is same size or smaller than media\1227009823079849984-EQc27YvXYAECZGw.png, 0.1MB downloaded.
+105/349: Success. Overwrote media\1227191472794914817-EQfcI07XUAAtVw8.jpg with downloaded version that is 65% larger, 0.4MB downloaded.
+106/349: Fail. Downloaded version is same size or smaller than media\1227700935541108736-EQmrfcLWoAEVOIl.png, 0.3MB downloaded.
+107/349: Fail. Downloaded version is same size or smaller than media\1234915678479667200-ESNMijEXsAIZu8D.jpg, 0.0MB downloaded.
+108/349: Fail. Downloaded version is same size or smaller than media\1235570419312152576-ESWgn_CWoAI3Jkx.png, 0.4MB downloaded.
+109/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/eHakgRWOPKD-LpZD.mp4 Filename: media\1236436089184944128-eHakgRWOPKD-LpZD.mp4
+110/349: Fail. Downloaded version is same size or smaller than media\1237063698495176705-ESruXDxX0AE8hgy.mp4, 0.3MB downloaded.
+111/349: Fail. Downloaded version is same size or smaller than media\1237093863174688769-ESsJ6LeWsAMPNly.png, 0.3MB downloaded.
+112/349: Fail. Downloaded version is same size or smaller than media\1237095803065335808-ESsL0nuXgAEpBlW.mp4, 0.1MB downloaded.
+113/349: Fail. Downloaded version is same size or smaller than media\1237702333578051585-ES0zT07XkAA1Frs.mp4, 0.3MB downloaded.
+114/349: Fail. Downloaded version is same size or smaller than media\1237709811355172864-ES05ukJXYAEoCV3.mp4, 0.7MB downloaded.
+115/349: Fail. Downloaded version is same size or smaller than media\1239681124093304833-ESul5OWWsAAejeD.jpg, 0.0MB downloaded.
+116/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/gLAlmfu-c4WgLAtY.mp4 Filename: media\1240383479319273473-gLAlmfu-c4WgLAtY.mp4
+117/349: Success. Overwrote media\1241061813858512899-ETkjHuyXYAAs98h.jpg with downloaded version that is 1054% larger, 1.9MB downloaded.
+118/349: Fail. Downloaded version is same size or smaller than media\1241506373709574151-ETq1jWAX0AA4oYX.jpg, 0.0MB downloaded.
+119/349: Fail. Downloaded version is same size or smaller than media\1243604758700711939-EUIrnQ8XgAk2qMc.mp4, 0.4MB downloaded.
+120/349: Success. Overwrote media\1244658880417800192-EUXqAQbWkAU4iZ2.jpg with downloaded version that is 52% larger, 0.2MB downloaded.
+121/349: Fail. Downloaded version is same size or smaller than media\1244679781523894274-EUX9fNrWAAY4T-J.mp4, 0.0MB downloaded.
+122/349: Fail. Downloaded version is same size or smaller than media\1244736881989992449-EUYudepWsAUd6Im.mp4, 0.0MB downloaded.
+123/349: Success. Overwrote media\1246178456880152578-EUtQsG0WsAsxrfq.jpg with downloaded version that is 106% larger, 0.2MB downloaded.
+124/349: Fail. Downloaded version is same size or smaller than media\1246924072744890368-EU32JbCX0AoyFKY.mp4, 0.4MB downloaded.
+125/349: Fail. Downloaded version is same size or smaller than media\1247469975721345028-EU_kW0YWoAEuANx.mp4, 2.4MB downloaded.
+126/349: Fail. Downloaded version is same size or smaller than media\1247660108928221185-EVCSikzXkAIFZJa.png, 0.5MB downloaded.
+127/349: Fail. Downloaded version is same size or smaller than media\1248370608884330496-EVMZf0-XsAApdUq.jpg, 0.1MB downloaded.
+128/349: Fail. Downloaded version is same size or smaller than media\1250905202598830086-EVwa82aXsAA1Ka8.jpg, 0.1MB downloaded.
+129/349: Fail. Downloaded version is same size or smaller than media\1251252212975763456-EV1XNoWXkAEQj4n.png, 0.2MB downloaded.
+130/349: Success. Overwrote media\1251255213304033280-EV1Z4yoWoAAmWYL.jpg with downloaded version that is 97% larger, 0.3MB downloaded.
+131/349: Success. Overwrote media\1255087082592243712-EWr28abWoAEuDvj.jpg with downloaded version that is 1012% larger, 2.1MB downloaded.
+132/349: Fail. Downloaded version is same size or smaller than media\1258144088282615815-EXXTBUJUcAAM2bT.jpg, 0.1MB downloaded.
+133/349: Success. Overwrote media\1261392478424510465-EYFduAYXsAUX8oL.jpg with downloaded version that is 630% larger, 1.6MB downloaded.
+134/349: Success. Overwrote media\1263474555789684736-EYjDZnVXkAES1n2.jpg with downloaded version that is 87% larger, 0.2MB downloaded.
+135/349: Fail. Downloaded version is same size or smaller than media\1265258984476475393-EY8Z1o-XYAAJwdR.jpg, 0.1MB downloaded.
+136/349: Success. Overwrote media\1265285245580070912-EY8xje_XkAENZLo.jpg with downloaded version that is 200% larger, 0.9MB downloaded.
+137/349: Success. Overwrote media\1265336787431497730-EY9fnaiXkAMzp5o.jpg with downloaded version that is 0% larger, 0.2MB downloaded.
+138/349: Success. Overwrote media\1267165366263914496-EZV7c1nXQAEiR45.jpg with downloaded version that is 42% larger, 0.2MB downloaded.
+139/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/G3jIO1nv-fQo8LOQ.mp4 Filename: media\1268436898583846913-G3jIO1nv-fQo8LOQ.mp4
+140/349: Fail. Downloaded version is same size or smaller than media\1268884412508315649-EZv7nXaWsAM0_wc.png, 0.4MB downloaded.
+141/349: Fail. Downloaded version is same size or smaller than media\1270379789141016577-EaFLQlqXkAAdW9c.png, 0.1MB downloaded.
+142/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/kbqrocf0HgifV0wV.mp4 Filename: media\1271105490693562375-kbqrocf0HgifV0wV.mp4
+143/349: Fail. Downloaded version is same size or smaller than media\1275210224081739779-EbJ069KWoAEF8g9.png, 0.1MB downloaded.
+144/349: Fail. Media couldn't be retrieved: https://pbs.twimg.com/media/EbYnFFQXkAEUAvw.png:orig Filename: media\1276287850934407168-EbYnFFQXkAEUAvw.png
+145/349: Success. Overwrote media\1276938996912984066-EbiYLQsXgAA6FI_.jpg with downloaded version that is 329% larger, 0.7MB downloaded.
+146/349: Success. Overwrote media\1276938999844802560-EbiYWH8XQAEjY0D.jpg with downloaded version that is 813% larger, 3.3MB downloaded.
+147/349: Success. Overwrote media\1276943381890060290-EbidA0aWoAENcLS.jpg with downloaded version that is 834% larger, 3.5MB downloaded.
+148/349: Fail. Downloaded version is same size or smaller than media\1277027634883579906-EbjpAB_WAAAWKqp.png, 0.0MB downloaded.
+149/349: Fail. Downloaded version is same size or smaller than media\1280262439867645956-EcRmBxFXsAEX40H.jpg, 0.1MB downloaded.
+150/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/ZruQVtdRryoegDnD.mp4 Filename: media\1282459282383011843-ZruQVtdRryoegDnD.mp4
+151/349: Fail. Downloaded version is same size or smaller than media\1285209783147073536-EdXZd7mXsAA_WMf.png, 0.4MB downloaded.
+152/349: Success. Overwrote media\1285893154378588161-Edho8HBXsAIvOij.jpg with downloaded version that is 702% larger, 1.9MB downloaded.
+153/349: Success. Overwrote media\1287471019482112000-Ed4D6rgXkAA2yXd.png with downloaded version that is 17% larger, 1.0MB downloaded.
+154/349: Success. Overwrote media\1290301308398735360-EegSL8lXoAAVath.jpg with downloaded version that is 712% larger, 1.9MB downloaded.
+155/349: Success. Overwrote media\1290308565245112321-EegYyJVWoAEEnUc.png with downloaded version that is 74% larger, 0.6MB downloaded.
+156/349: Fail. Downloaded version is same size or smaller than media\1293918522897129472-EfTpV7bU0AA798R.jpg, 0.4MB downloaded.
+157/349: Success. Overwrote media\1300922536461508608-Eg3N8YiX0AIc5hn.jpg with downloaded version that is 221% larger, 0.9MB downloaded.
+158/349: Success. Overwrote media\1301912555019886592-EhFSZIqXgAAcUEP.jpg with downloaded version that is 492% larger, 1.4MB downloaded.
+159/349: Fail. Downloaded version is same size or smaller than media\1304477717258174468-EhpsKirU4AAS78A.jpg, 0.2MB downloaded.
+160/349: Success. Overwrote media\1307291193999581185-EiRO77KUYAAX0uX.jpg with downloaded version that is 189% larger, 0.4MB downloaded.
+161/349: Fail. Downloaded version is same size or smaller than media\1308117729363320833-Eidd3hpWkAgDZuu.jpg, 0.0MB downloaded.
+162/349: Success. Overwrote media\1314992592044593152-Ej_KyLQXgAISEkp.jpg with downloaded version that is 308% larger, 0.9MB downloaded.
+163/349: Fail. Media couldn't be retrieved: https://pbs.twimg.com/media/Ej_wI_iWkAcXlEg.png:orig Filename: media\1315057472076500993-Ej_wI_iWkAcXlEg.png
+164/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/kPrjukTXIEl50tXq.mp4 Filename: media\1317923535105478656-kPrjukTXIEl50tXq.mp4
+165/349: Fail. Downloaded version is same size or smaller than media\1318942490985156608-Ek3QaJJX0AARdrW.png, 0.0MB downloaded.
+166/349: Success. Overwrote media\1320046350617186307-ElG-9DmXgAAeS2J.jpg with downloaded version that is 768% larger, 1.4MB downloaded.
+167/349: Success. Overwrote media\1320882187542155266-ElS29VeXEAA5dTi.jpg with downloaded version that is 1657% larger, 2.2MB downloaded.
+168/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/_CxNfrXCQL4PoMiK.mp4 Filename: media\1323010358639022081-_CxNfrXCQL4PoMiK.mp4
+169/349: Success. Overwrote media\1323661697975046145-El6XDdFXUAAthaS.jpg with downloaded version that is 218% larger, 0.1MB downloaded.
+170/349: Success. Overwrote media\1325137124505513984-EmPVLESVoAAyhDl.jpg with downloaded version that is 19% larger, 0.2MB downloaded.
+171/349: Fail. Downloaded version is same size or smaller than media\1328078076593524740-Em5H93uXYAIfsrh.mp4, 0.0MB downloaded.
+172/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/RsOtSCOw8k7uqLyX.mp4 Filename: media\1328502982573428736-RsOtSCOw8k7uqLyX.mp4
+173/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/5U27Ar0SObaD0TtP.mp4 Filename: media\1329524633721315372-5U27Ar0SObaD0TtP.mp4
+174/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/ikxx-wf1l__9IxXy.mp4 Filename: media\1329913753211691008-ikxx-wf1l__9IxXy.mp4
+175/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/eagclxpFJK9GeXnd.mp4 Filename: media\1330334624132837384-eagclxpFJK9GeXnd.mp4
+176/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/Q1P1WLseqOz6yoDf.mp4 Filename: media\1332621192075890689-Q1P1WLseqOz6yoDf.mp4
+177/349: Fail. Downloaded version is same size or smaller than media\1333037236523294721-En_mBE0W4AE79VC.png, 0.1MB downloaded.
+178/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/ty7U3uTSedxDNhcp.mp4 Filename: media\1339651563464372231-ty7U3uTSedxDNhcp.mp4
+179/349: Success. Overwrote media\1343361490741469185-EqSS0YcXUAAJFNB.jpg with downloaded version that is 98% larger, 0.3MB downloaded.
+180/349: Success. Overwrote media\1344372148761145344-EqgqVQNWMAQklyX.jpg with downloaded version that is 113% larger, 0.3MB downloaded.
+181/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/d99UuxPih_uQpovh.mp4 Filename: media\1344799320097382404-d99UuxPih_uQpovh.mp4
+182/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/8A3LZ4hI0SL6NfC6.mp4 Filename: media\1345197649876705280-8A3LZ4hI0SL6NfC6.mp4
+183/349: Success. Overwrote media\1345400699480367104-EqvSdDQXUAY-uRh.jpg with downloaded version that is 119% larger, 0.2MB downloaded.
+184/349: Fail. Downloaded version is same size or smaller than media\1355249866574868484-Es6apxTW4AIA_kv.jpg, 0.0MB downloaded.
+185/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/MudfdMco6mqSxIIz.mp4 Filename: media\1355301565922500608-MudfdMco6mqSxIIz.mp4
+186/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/9jnGiAMXAid_J95V.mp4 Filename: media\1356923312463560705-9jnGiAMXAid_J95V.mp4
+187/349: Fail. Downloaded version is same size or smaller than media\1357674702517530629-Etds3R3XEAAQOF-.png, 0.0MB downloaded.
+188/349: Success. Overwrote media\1357794425703915521-Etfa0JOXMAAUY5y.jpg with downloaded version that is 101% larger, 0.1MB downloaded.
+189/349: Fail. Downloaded version is same size or smaller than media\1358941902603776009-EtvtrQ1XUAAh3l0.png, 0.0MB downloaded.
+190/349: Fail. Downloaded version is same size or smaller than media\1362390074382508035-EZu3JtgXgAIpolY.mp4, 0.4MB downloaded.
+191/349: Fail. Downloaded version is same size or smaller than media\1381631900167589890-EyyKvDMXAAQZnEp.jpg, 0.2MB downloaded.
+192/349: Fail. Downloaded version is same size or smaller than media\1384226381127553028-EzXCRM4VkAcldrn.jpg, 0.1MB downloaded.
+193/349: Fail. Downloaded version is same size or smaller than media\1387019594263678989-Ez-upt_WEAUTz30.png, 0.1MB downloaded.
+194/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/84XAtNVvFmOhrFQV.mp4 Filename: media\1393669075214217216-84XAtNVvFmOhrFQV.mp4
+195/349: Success. Overwrote media\1395309798166573056-E10dfaRXsAA7gGi.jpg with downloaded version that is 33% larger, 0.2MB downloaded.
+196/349: Fail. Downloaded version is same size or smaller than media\1395309805028392960-E10dxWOWYAAwrKo.jpg, 0.2MB downloaded.
+197/349: Success. Overwrote media\1395309812251074560-E10f5CFXMAA-lLr.jpg with downloaded version that is 247% larger, 0.8MB downloaded.
+198/349: Fail. Downloaded version is same size or smaller than media\1396957085791883264-E2L8pvGWUAMKT0Q.png, 0.4MB downloaded.
+199/349: Success. Overwrote media\1402008612940226560-E3TvV12WUAMSCwm.jpg with downloaded version that is 778% larger, 1.7MB downloaded.
+200/349: Success. Overwrote media\1405543873309380613-E4F-m8yVUAAAZQ8.jpg with downloaded version that is 713% larger, 1.9MB downloaded.
+201/349: Fail. Downloaded version is same size or smaller than media\1406338455840382977-E4RQ8eYX0AUdPqD.png, 0.3MB downloaded.
+202/349: Success. Overwrote media\1419410070656401408-E7LB0txXIAAbEQM.jpg with downloaded version that is 146% larger, 0.5MB downloaded.
+203/349: Success. Overwrote media\1419616716540284931-E7N9u3yWEAM1f-n.jpg with downloaded version that is 151% larger, 0.5MB downloaded.
+204/349: Success. Overwrote media\1432352477500805122-E-C8yuKWYAMZ6Dw.jpg with downloaded version that is 291% larger, 0.9MB downloaded.
+205/349: Success. Overwrote media\1441738252973658112-FAIVLDhWQAIjIsG.jpg with downloaded version that is 167% larger, 0.6MB downloaded.
+206/349: Success. Overwrote media\1441752219880202249-FAIh_j2XEAA3h0X.jpg with downloaded version that is 168% larger, 0.5MB downloaded.
+207/349: Success. Overwrote media\1441761626215092229-FAIqfzPVUBIJVv2.jpg with downloaded version that is 159% larger, 0.6MB downloaded.
+208/349: Success. Overwrote media\1441780315249209344-FAI7ZEDVkAYzvyd.jpg with downloaded version that is 200% larger, 0.5MB downloaded.
+209/349: Success. Overwrote media\1441787262526701570-FAJB3brXIAMTNFH.jpg with downloaded version that is 151% larger, 0.6MB downloaded.
+210/349: Fail. Downloaded version is same size or smaller than media\1446448502704427013-FBLQ9eNXsAEbL5W.jpg, 0.1MB downloaded.
+211/349: Fail. Downloaded version is same size or smaller than media\1451552152879603718-FCTy8IiWQAM-Q4N.mp4, 0.1MB downloaded.
+212/349: Success. Overwrote media\1458391353944158211-FD0-9e9WEAUmoT-.jpg with downloaded version that is 138% larger, 1.1MB downloaded.
+213/349: Success. Overwrote media\1458935295764750337-FD8ttDPWUAISrzr.jpg with downloaded version that is 121% larger, 0.3MB downloaded.
+214/349: Success. Overwrote media\1467565032380719105-FF3VcbaXMAE3H6D.jpg with downloaded version that is 92% larger, 0.1MB downloaded.
+215/349: Fail. Downloaded version is same size or smaller than media\1469010484594679808-FGL5DCIWYA40m6k.mp4, 0.2MB downloaded.
+216/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/gOx_KvgnlDo4qzyx.mp4 Filename: media\1477413420228132865-gOx_KvgnlDo4qzyx.mp4
+217/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/d-YZWtY_0uIkDf-f.mp4 Filename: media\1477786706157920260-d-YZWtY_0uIkDf-f.mp4
+218/349: Success. Overwrote media\1478284174796771329-FIPrQ60XwAI46FN.jpg with downloaded version that is 2% larger, 0.1MB downloaded.
+219/349: Fail. Downloaded version is same size or smaller than media\1480661675191721984-FIxdzFFWUAI8U8t.png, 0.3MB downloaded.
+220/349: Fail. Downloaded version is same size or smaller than media\1480665057042313218-FIxg_i-VEAEDfpt.png, 0.3MB downloaded.
+221/349: Fail. Downloaded version is same size or smaller than media\1480713628017991681-FIyNGZnXwAIMHf7.png, 0.3MB downloaded.
+222/349: Fail. Downloaded version is same size or smaller than media\1480842789315297280-FI0Ck0XX0AIdhJl.png, 0.3MB downloaded.
+223/349: Fail. Downloaded version is same size or smaller than media\1480918501711917065-FI1GluhXMAcy-1i.png, 0.3MB downloaded.
+224/349: Success. Overwrote media\1481355762098188292-FI7UwUvXsAAKo2z.png with downloaded version that is 47% larger, 1.6MB downloaded.
+225/349: Success. Overwrote media\1481369201226956803-FI7hGrjXEAUqInK.jpg with downloaded version that is 47% larger, 0.3MB downloaded.
+226/349: Success. Overwrote media\1481374430160994304-FI7l1T3XwAYPF-4.jpg with downloaded version that is 48% larger, 0.3MB downloaded.
+227/349: Success. Overwrote media\1481379381822042117-FI7qhLLX0AUxojc.jpg with downloaded version that is 60% larger, 0.3MB downloaded.
+228/349: Success. Overwrote media\1481383690718654466-FI7ufOUWUAA--O1.jpg with downloaded version that is 49% larger, 0.3MB downloaded.
+229/349: Success. Overwrote media\1481417828964225025-FI8J56gWUAAPZq7.jpg with downloaded version that is 19% larger, 0.2MB downloaded.
+230/349: Success. Overwrote media\1481429283688095745-FI8X-r8XMAcz1HA.jpg with downloaded version that is 80% larger, 0.4MB downloaded.
+231/349: Success. Overwrote media\1482471897141059587-FJLMSqWXIAkIwr5.jpg with downloaded version that is 311% larger, 2.0MB downloaded.
+232/349: Fail. Downloaded version is same size or smaller than media\1482472368471949312-FJLMvkSXsAEwH35.png, 0.6MB downloaded.
+233/349: Success. Overwrote media\1482903182783266825-FJRRK9nXIAcZiL_.jpg with downloaded version that is 8% larger, 0.1MB downloaded.
+234/349: Fail. Downloaded version is same size or smaller than media\1482995977829109770-FJSoB7xXoAE9LpK.png, 0.1MB downloaded.
+235/349: Fail. Media couldn't be retrieved: https://pbs.twimg.com/media/FJW9THOVgAI63Wa.jpg:orig Filename: media\1483352327943856130-FJW9THOVgAI63Wa.jpg
+236/349: Success. Overwrote media\1485387115076759559-FJwUfvUVkAE3sly.jpg with downloaded version that is 146% larger, 0.9MB downloaded.
+237/349: Success. Overwrote media\1486484334244773889-FKENCewX0AExm9V.jpg with downloaded version that is 14% larger, 0.1MB downloaded.
+238/349: Success. Overwrote media\1488187253964914695-FKcZbHcXoAsKcF-.png with downloaded version that is 318% larger, 1.0MB downloaded.
+239/349: Fail. Downloaded version is same size or smaller than media\1488926151124959239-FKm6UfRXsAIok0b.png, 0.3MB downloaded.
+240/349: Success. Overwrote media\1489047534160994313-FKoo0YZXwAE7nC9.png with downloaded version that is 331% larger, 1.0MB downloaded.
+241/349: Success. Overwrote media\1489156254018715649-FKqLiHiWQAE6aqs.png with downloaded version that is 65% larger, 0.6MB downloaded.
+242/349: Success. Overwrote media\1489684695482867715-FKxsUomWQAMEia0.png with downloaded version that is 59% larger, 0.4MB downloaded.
+243/349: Success. Overwrote media\1490835375673454592-FLCBVEdXwAAXf38.jpg with downloaded version that is 258% larger, 0.3MB downloaded.
+244/349: Success. Overwrote media\1490839234864889860-FLCGWfcX0AMGjvT.png with downloaded version that is 125% larger, 0.2MB downloaded.
+245/349: Fail. Downloaded version is same size or smaller than media\1491062774893805569-FLFNkDnXoAYp5af.png, 0.1MB downloaded.
+246/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/GIXjrDCIGCRenMdH.mp4 Filename: media\1491137435606319104-GIXjrDCIGCRenMdH.mp4
+247/349: Fail. Downloaded version is same size or smaller than media\1491137444745383939-FLGUp7hXEAAyj7b.png, 0.0MB downloaded.
+248/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/1aY85JTR9IOU6s-2.mp4 Filename: media\1491142888860024834-1aY85JTR9IOU6s-2.mp4
+249/349: Success. Overwrote media\1492122849636724736-FLUVxeyXEAc935s.jpg with downloaded version that is 177% larger, 0.5MB downloaded.
+250/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/iuSYsk2rbOuR91tU.mp4 Filename: media\1493679723985178625-iuSYsk2rbOuR91tU.mp4
+251/349: Success. Overwrote media\1496904827871371273-FMYS4b-X0AAILNO.jpg with downloaded version that is 149% larger, 0.4MB downloaded.
+252/349: Fail. Downloaded version is same size or smaller than media\1497250441951956998-FMdGJe1XoAoNkFB.jpg, 0.2MB downloaded.
+253/349: Success. Overwrote media\1504880166312497159-FOJoMUxXEAIhafZ.jpg with downloaded version that is 132% larger, 0.4MB downloaded.
+254/349: Fail. Downloaded version is same size or smaller than media\1517063312160309249-FQ2uvm-UYAAVRWM.mp4, 1.4MB downloaded.
+255/349: Success. Overwrote media\416684179276181505-BchcDZkIEAAHTcp.jpg with downloaded version that is 753% larger, 0.2MB downloaded.
+256/349: Success. Overwrote media\418358719643406336-Bc5PCeWIAAAx1PR.jpg with downloaded version that is 785% larger, 0.5MB downloaded.
+257/349: Success. Overwrote media\418368379050008576-Bc5X0uIIcAAM5yc.jpg with downloaded version that is 873% larger, 0.5MB downloaded.
+258/349: Success. Overwrote media\426667631307812865-BevT8zmCcAAkHRe.jpg with downloaded version that is 318% larger, 0.2MB downloaded.
+259/349: Success. Overwrote media\506389310539837440-BwcOZIXCQAEoENx.jpg with downloaded version that is 1192% larger, 0.5MB downloaded.
+260/349: Success. Overwrote media\506392677831962624-BwTOwZJIQAA5Bco.jpg with downloaded version that is 60% larger, 0.1MB downloaded.
+261/349: Success. Overwrote media\533235036813012992-B2ZucJSCcAAR1kR.jpg with downloaded version that is 77% larger, 0.2MB downloaded.
+262/349: Fail. Downloaded version is same size or smaller than media\546197861072121856-B5QsHj9IMAA6Q_P.mp4, 0.1MB downloaded.
+263/349: Success. Overwrote media\563063161679785984-B9BKnTIIcAAGDbK.jpg with downloaded version that is 174% larger, 0.7MB downloaded.
+264/349: Success. Overwrote media\615284929828683776-CInuXF5WEAIB9nC.jpg with downloaded version that is 241% larger, 1.2MB downloaded.
+265/349: Fail. Downloaded version is same size or smaller than media\624240373376925696-CKm_TifWgAAmTv8.jpg, 0.1MB downloaded.
+266/349: Fail. Downloaded version is same size or smaller than media\630715732595212288-CMDAnbfXAAAQWBz.png, 0.1MB downloaded.
+267/349: Success. Overwrote media\639843565892448257-COEnvs3W8AAcm_d.png with downloaded version that is 115% larger, 1.0MB downloaded.
+268/349: Success. Overwrote media\649531088675733504-CQOZFQWWsAEN9DS.jpg with downloaded version that is 504% larger, 0.9MB downloaded.
+269/349: Fail. Downloaded version is same size or smaller than media\651548168593739777-CQrDm2nWwAA25qh.jpg, 0.2MB downloaded.
+270/349: Success. Overwrote media\664126712784027648-CTdzuZSWIAErvh6.jpg with downloaded version that is 470% larger, 1.7MB downloaded.
+271/349: Fail. Downloaded version is same size or smaller than media\669948488348749824-CUwRhMuUcAEhCLo.jpg, 0.0MB downloaded.
+272/349: Fail. Downloaded version is same size or smaller than media\703246321281581056-CcJLIs2VIAAN0WH.mp4, 0.4MB downloaded.
+273/349: Fail. Downloaded version is same size or smaller than media\719616952210223106-CfyXzNHWIAEuUkV.jpg, 0.2MB downloaded.
+274/349: Success. Overwrote media\731168964659822592-CiV3p8_WUAAVyv0.jpg with downloaded version that is 200% larger, 0.3MB downloaded.
+275/349: Success. Overwrote media\742453699298131970-Ck25s8DWgAAts-h.jpg with downloaded version that is 665% larger, 1.3MB downloaded.
+276/349: Success. Overwrote media\750003798777659393-CmiMSwwWYAErcG8.jpg with downloaded version that is 142% larger, 0.7MB downloaded.
+277/349: Success. Overwrote media\753995290378502145-CnQOlAiXgAEQDFH.jpg with downloaded version that is 152% larger, 0.3MB downloaded.
+278/349: Fail. Downloaded version is same size or smaller than media\757935732019331072-CoS6U81W8AAoNTY.jpg, 0.1MB downloaded.
+279/349: Success. Overwrote media\789451907144220672-CvSyOlyXYAANYi7.jpg with downloaded version that is 548% larger, 0.9MB downloaded.
+280/349: Fail. Downloaded version is same size or smaller than media\793814153924374528-CwQxb9XWEAIZHIO.mp4, 0.2MB downloaded.
+281/349: Fail. Downloaded version is same size or smaller than media\795938205698822144-Cwu9P8bXcAAxRJK.jpg, 0.1MB downloaded.
+282/349: Fail. Downloaded version is same size or smaller than media\796355034615201792-Cw04l18W8AAWKcu.jpg, 0.0MB downloaded.
+283/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/zW05UZoceh0tIpw0.mp4 Filename: media\802084777440542720-zW05UZoceh0tIpw0.mp4
+284/349: Success. Overwrote media\805114589323153408-CywObw_XUAAIDgY.jpg with downloaded version that is 514% larger, 1.9MB downloaded.
+285/349: Fail. Downloaded version is same size or smaller than media\806292021711347713-CzCF1KDXgAAg-Ms.mp4, 0.1MB downloaded.
+286/349: Fail. Downloaded version is same size or smaller than media\827283404211171329-C3sZnGbUMAAJPRR.jpg, 0.2MB downloaded.
+287/349: Fail. Downloaded version is same size or smaller than media\836611814096060416-C5w91AZXQAAU9k3.jpg, 0.0MB downloaded.
+288/349: Success. Overwrote media\838809499079168001-C6P13NSXQAAy3qH.jpg with downloaded version that is 490% larger, 0.8MB downloaded.
+289/349: Success. Overwrote media\840239403792551936-C6kgexYWkAAZuRB.jpg with downloaded version that is 883% larger, 1.2MB downloaded.
+290/349: Fail. Downloaded version is same size or smaller than media\842153345309675521-C6_Cn6mXAAYH18b.mp4, 0.1MB downloaded.
+291/349: Fail. Downloaded version is same size or smaller than media\842690535425003520-C7HWb7xXgAAAWUP.jpg, 0.1MB downloaded.
+292/349: Fail. Downloaded version is same size or smaller than media\847020302609604609-C8E2ofSW0AAGS8M.jpg, 0.1MB downloaded.
+293/349: Success. Overwrote media\853608780340371456-CmEU1PUUsAEsLFp.jpg with downloaded version that is 532% larger, 1.3MB downloaded.
+294/349: Success. Overwrote media\853610299336863746-CmEUpxLVAAA-zD3.jpg with downloaded version that is 608% larger, 1.2MB downloaded.
+295/349: Success. Overwrote media\854395126684278784-C9trbPMXcAAWXeA.jpg with downloaded version that is 177% larger, 0.2MB downloaded.
+296/349: Fail. Downloaded version is same size or smaller than media\854701490308603904-C9yCO1KWAAUePzI.jpg, 0.0MB downloaded.
+297/349: Fail. Downloaded version is same size or smaller than media\855907070499016710-C-DKw8_WAAAp-Bn.jpg, 0.0MB downloaded.
+298/349: Success. Overwrote media\861684408423776262-C_VRNyIWsAAO2ll.jpg with downloaded version that is 29% larger, 0.1MB downloaded.
+299/349: Fail. Downloaded version is same size or smaller than media\865572901428355073-DAMhu3wXsAAmgdf.jpg, 0.0MB downloaded.
+300/349: Success. Overwrote media\875642467097337856-DCboE-AVwAI_aAW.jpg with downloaded version that is 235% larger, 0.3MB downloaded.
+301/349: Success. Overwrote media\875653528265424897-DCbyN9LUMAEablR.jpg with downloaded version that is 27% larger, 0.3MB downloaded.
+302/349: Fail. Downloaded version is same size or smaller than media\877922722038267904-DC8B_geXsAAU_FY.jpg, 0.0MB downloaded.
+303/349: Success. Overwrote media\877992698908598273-DC9Bbr9XUAEA9N4.jpg with downloaded version that is 106% larger, 0.2MB downloaded.
+304/349: Fail. Downloaded version is same size or smaller than media\880924990878691328-DDmsbCvXkAAXPEt.jpg, 0.0MB downloaded.
+305/349: Success. Overwrote media\893428652834213888-DGXIGHGUMAAY2cP.jpg with downloaded version that is 132% larger, 0.3MB downloaded.
+306/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/rxDng-SWUJSEJ5Xv.mp4 Filename: media\897199098528501760-rxDng-SWUJSEJ5Xv.mp4
+307/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/ekQCXj12h_-iEdAH.mp4 Filename: media\898110290335870976-ekQCXj12h_-iEdAH.mp4
+308/349: Success. Overwrote media\903195483778273280-DIjLEndWAAAyXMl.jpg with downloaded version that is 526% larger, 0.7MB downloaded.
+309/349: Fail. Downloaded version is same size or smaller than media\905905988791930884-DJJsoMSW0AADIdu.jpg, 0.1MB downloaded.
+310/349: Fail. Downloaded version is same size or smaller than media\906309957733289986-DJPcF7gW4AAQ6ys.jpg, 0.1MB downloaded.
+311/349: Fail. Downloaded version is same size or smaller than media\913824954851917824-DK6OCPEXkAAWhCJ.jpg, 0.1MB downloaded.
+312/349: Success. Overwrote media\915112186397315072-DLMhq-gWAAUJyAt.jpg with downloaded version that is 65% larger, 0.1MB downloaded.
+313/349: Success. Overwrote media\918825353812078592-DMBSYGYVAAAtAzn.jpg with downloaded version that is 864% larger, 2.6MB downloaded.
+314/349: Success. Overwrote media\935612863380680704-DPv0_s2X4AAmJ2e.jpg with downloaded version that is 639% larger, 1.4MB downloaded.
+315/349: Success. Overwrote media\941266864918925312-DQ_59-oX4AACzhk.jpg with downloaded version that is 129% larger, 0.4MB downloaded.
+316/349: Success. Overwrote media\946671805535805440-DSNA77zWkAAZzNJ.jpg with downloaded version that is 69% larger, 0.8MB downloaded.
+317/349: Success. Overwrote media\947617479450382336-DSacCaxX4AA9MLH.jpg with downloaded version that is 86% larger, 0.3MB downloaded.
+318/349: Success. Overwrote media\950419833102962688-DTCRxdfWkAUsvwf.jpg with downloaded version that is 274% larger, 0.5MB downloaded.
+319/349: Fail. Downloaded version is same size or smaller than media\955808418442379264-DUO2A0_X0AU_Js_.jpg, 0.0MB downloaded.
+320/349: Fail. Downloaded version is same size or smaller than media\956130414044831744-DUQvhfAW0AAhE9e.jpg, 0.1MB downloaded.
+321/349: Success. Overwrote media\959419782515838976-DVCLIpKX4AEpqeV.jpg with downloaded version that is 274% larger, 0.3MB downloaded.
+322/349: Success. Overwrote media\960965302547861505-DVYIg2gXcAU0KTQ.jpg with downloaded version that is 958% larger, 1.4MB downloaded.
+323/349: Success. Overwrote media\960998682878455808-DVYnL5rW0AAnDw-.jpg with downloaded version that is 82% larger, 0.1MB downloaded.
+324/349: Success. Overwrote media\961271588669837312-DVcfBrUWkAAriP9.jpg with downloaded version that is 616% larger, 0.7MB downloaded.
+325/349: Fail. Downloaded version is same size or smaller than media\961278933600817152-DVcmD5WW4AAREFi.jpg, 0.1MB downloaded.
+326/349: Success. Overwrote media\965585804302192642-DWZyIctXkAAqEDO.jpg with downloaded version that is 324% larger, 0.1MB downloaded.
+327/349: Fail. Downloaded version is same size or smaller than media\965714939850776576-DWboXn9W0AAL52q.jpg, 0.1MB downloaded.
+328/349: Fail. Downloaded version is same size or smaller than media\971504708136382465-DXt46L9X0AE2puI.mp4, 0.1MB downloaded.
+329/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/Jz48B42RWFaNE3Mq.mp4 Filename: media\972110412794785792-Jz48B42RWFaNE3Mq.mp4
+330/349: Fail. Media couldn't be retrieved: https://video.twimg.com/tweet_video/M0XPz5t-GfYjW--P.mp4 Filename: media\972110428519174144-M0XPz5t-GfYjW--P.mp4
+331/349: Fail. Downloaded version is same size or smaller than media\973585403679838208-DYLdl3iWAAANyxI.jpg, 0.2MB downloaded.
+332/349: Success. Overwrote media\973672374213251072-DYD2JzYU8AAAQTj.jpg with downloaded version that is 40% larger, 0.1MB downloaded.
+333/349: Fail. Downloaded version is same size or smaller than media\973894378346475520-DYPseebX0AAoIlu.jpg, 0.0MB downloaded.
+334/349: Fail. Downloaded version is same size or smaller than media\975136768004710400-DYhhYiQW0AAU1ot.mp4, 1.6MB downloaded.
+335/349: Success. Overwrote media\975138957523595267-DYhjNZ7WAAA3v9w.jpg with downloaded version that is 585% larger, 0.8MB downloaded.
+336/349: Fail. Downloaded version is same size or smaller than media\975831768099147778-DYrZKf4X0AIj8qQ.jpg, 0.0MB downloaded.
+337/349: Fail. Downloaded version is same size or smaller than media\976145702958092288-DYv3GJsXcAAsbzG.mp4, 2.3MB downloaded.
+338/349: Fail. Downloaded version is same size or smaller than media\978603550161989633-DZSwv-TWsAAcwPe.jpg, 0.1MB downloaded.
+339/349: Fail. Downloaded version is same size or smaller than media\979472788615557120-DZfI8MeX0AEYmuP.mp4, 1.3MB downloaded.
+340/349: Fail. Downloaded version is same size or smaller than media\980104791329296385-DZoIG2jW4AA40cD.jpg, 0.2MB downloaded.
+341/349: Fail. Downloaded version is same size or smaller than media\981531637413539840-DZ8Z0VLVAAExzfe.jpg, 0.0MB downloaded.
+342/349: Success. Overwrote media\981611082744778753-DZ9h880XkAAhzga.jpg with downloaded version that is 1006% larger, 1.7MB downloaded.
+343/349: Success. Overwrote media\986738901472694277-DbGZPYLX4AEmGLa.jpg with downloaded version that is 25% larger, 0.1MB downloaded.
+344/349: Success. Overwrote media\988456740206374912-DbeyzQdWAAAlvnR.jpg with downloaded version that is 747% larger, 1.8MB downloaded.
+345/349: Fail. Downloaded version is same size or smaller than media\990344350184943616-Db5oybkWkAIJt7c.mp4, 14.1MB downloaded.
+346/349: Success. Overwrote media\994144330846752769-Db9dqPuXUAEPaNQ.jpg with downloaded version that is 113% larger, 0.9MB downloaded.
+347/349: Fail. Downloaded version is same size or smaller than media\995672648830144512-DdFW_nuXkAI-4LK.jpg, 0.0MB downloaded.
+348/349: Success. Overwrote media\998218105020211200-Ddlao5BW0AUpR2Q.jpg with downloaded version that is 106% larger, 0.1MB downloaded.
+349/349: Success. Overwrote media\998290563861549057-Ddqj9bzUQAEuRu3.jpg with downloaded version that is 125% larger, 0.6MB downloaded.
+
+Replaced 156 media files with larger versions.
+Total downloaded: 177.3MB = 0.17GB
+Time taken: 1003s
